@@ -19,3 +19,10 @@ cd docs
 gem install bundler jekyll github-pages
 jekyll serve
 ```
+
+## Updating from a new draft
+
+```sh
+pandoc durable-forms-draft-<version>.docx -t gfm --wrap=none -o full-book.md
+python3 scripts/split_book.py   # regenerates docs/ chapter files from full-book.md
+```

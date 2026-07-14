@@ -14,10 +14,12 @@ The book is published as a GitHub Pages site from the [`docs/`](docs/) directory
 
 ## Local preview
 
+Requires a modern Ruby (e.g. `brew install ruby`); the macOS system Ruby is too old. Note `docs/Gemfile` uses Jekyll 4 rather than the `github-pages` gem, because the GitHub Pages stack (Jekyll 3.9) cannot run on Ruby ≥ 3.2 — the rendered output is the same.
+
 ```sh
 cd docs
-gem install bundler jekyll github-pages
-jekyll serve
+bundle install
+bundle exec jekyll serve   # http://127.0.0.1:4000/
 ```
 
 ## Updating from a new draft

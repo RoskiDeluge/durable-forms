@@ -2,7 +2,7 @@
 
 *An Essay on Load Bearing Representations* — working manuscript, Draft 0.21 (July 2026).
 
-The book is published as a GitHub Pages site from the [`docs/`](docs/) directory. Each chapter is a standalone markdown file; the original manuscript is kept at the repo root as `durable-forms-draft-0.21.docx`.
+The book is published as a GitHub Pages site from the [`docs/`](docs/) directory. Each chapter is a standalone markdown file, and these files are the working manuscript.
 
 ## Structure
 
@@ -20,11 +20,4 @@ Requires a modern Ruby (e.g. `brew install ruby`); the macOS system Ruby is too 
 cd docs
 bundle install
 bundle exec jekyll serve   # http://127.0.0.1:4000/
-```
-
-## Updating from a new draft
-
-```sh
-pandoc durable-forms-draft-<version>.docx -t gfm --wrap=none -o full-book.md
-python3 scripts/split_book.py   # regenerates docs/ chapter files from full-book.md
 ```

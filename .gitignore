@@ -3,4 +3,7 @@ _site/
 Gemfile.lock
 .DS_Store
 full-book.md
-media/
+
+.env
+
+.reffy/state/

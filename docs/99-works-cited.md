@@ -10,6 +10,8 @@ ANSI/X3/SPARC Study Group on Data Base Management Systems. “Interim Report.”
 
 Aristotle. *De Anima*.
 
+Baker, G. P., and P. M. S. Hacker. *Scepticism, Rules and Language*. Oxford: Blackwell, 1984. Source of the reading of rule-following adopted in Chapter 5.
+
 Berners-Lee, Tim, James Hendler, and Ora Lassila. “The Semantic Web.” *Scientific American* 284, no. 5 (May 2001): 34–43.
 
 Bezos, Jeff. “Well-capitalized Seattle start-up seeks Unix developers.” Usenet posting to misc.jobs.offered, August 22, 1994. Archived in the Google Groups Usenet archive.
@@ -37,6 +39,8 @@ Guha, R. V., Dan Brickley, and Steve Macbeth. “Schema.org: Evolution of Struct
 Haas, Andreas, Andreas Rossberg, Derek L. Schuff, Ben L. Titzer, Michael Holman, Dan Gohman, Luke Wagner, Alon Zakai, and JF Bastien. “Bringing the Web up to Speed with WebAssembly.” In *Proceedings of the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2017)*, 185–200. New York: ACM, 2017.
 
 Hartley, R. V. L. “Transmission of Information.” *Bell System Technical Journal* 7, no. 3 (July 1928): 535–563.
+
+Janik, Allan, and Stephen Toulmin. *Wittgenstein’s Vienna*. New York: Simon and Schuster, 1973. Source of the “Platonic myth” characterization of the *Tractatus* in Chapter 1.
 
 Langer, Susanne K. *Philosophy in a New Key: A Study in the Symbolism of Reason, Rite, and Art*. Cambridge, MA: Harvard University Press, 1942.
 
@@ -73,3 +77,9 @@ Tribus, Myron, and Edward C. McIrvine. “Energy and Information.” *Scientific
 WebAssembly Community Group. *WebAssembly Core Specification*. W3C Recommendation, December 5, 2019.
 
 Wilkes, Maurice V., David J. Wheeler, and Stanley Gill. *The Preparation of Programs for an Electronic Digital Computer*. Cambridge, MA: Addison-Wesley, 1951.
+
+Wittgenstein, Ludwig. *Philosophical Investigations*. Translated by G. E. M. Anscombe. Oxford: Blackwell, 1953.
+
+Wittgenstein, Ludwig. “Some Remarks on Logical Form.” *Proceedings of the Aristotelian Society*, Supplementary Volume 9 (1929): 162–171.
+
+Wittgenstein, Ludwig. *Tractatus Logico-Philosophicus*. Translated by D. F. Pears and B. F. McGuinness. London: Routledge & Kegan Paul, 1961. First published 1921.

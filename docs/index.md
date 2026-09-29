@@ -25,6 +25,8 @@ The Wasm homage, and how a naming gesture turned out to contain a thesis.
 
 Plato's theory of Forms recovered as the first projection architecture — durable templates, transient instantiations — together with its load-bearing flaw: the assumption that forms persist by their own nature. The book keeps the architecture and inverts the physics.
 
+Wittgenstein as the one thinker who ran the relay alone: the Tractatus's fixed logical space rebuilds Plato's physics for logic, and the Investigations takes it apart, locating meaning in use and rules in practice.
+
 Susanne Langer's symbols as vehicles of conception rather than proxies for objects, and Deleuze's assemblages — heterogeneous parts held together by what they do, not what they essentially are — as the anti-essentialist corrective that keeps the book's Platonism honest.
 
 The scientific line: Shannon's quantification-by-deferral of meaning, then Deutsch and Marletto's counterfactual turn, in which information is constituted by which transformations are possible.

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "created_at": "2026-09-27T18:59:28.680Z",
-  "updated_at": "2026-09-27T19:19:07.246Z",
+  "updated_at": "2026-09-29T02:45:06.793Z",
   "project_id": "durable-forms",
   "workspace_ids": [
     "lasm-v1"
@@ -13,10 +13,23 @@
       "filename": "weaving-wittgenstein-into-durable-forms.md",
       "kind": "note",
       "mime_type": "text/markdown",
-      "size_bytes": 23904,
+      "size_bytes": 24109,
       "tags": [],
       "created_at": "2026-09-27T19:19:07.246Z",
-      "updated_at": "2026-09-27T19:19:07.246Z"
+      "updated_at": "2026-09-29T02:45:06.793Z",
+      "related_changes": [
+        "add-wittgenstein-thread"
+      ],
+      "derived_outputs": [
+        ".reffy/reffyspec/changes/add-wittgenstein-thread/proposal.md",
+        ".reffy/reffyspec/changes/add-wittgenstein-thread/tasks.md",
+        ".reffy/reffyspec/changes/add-wittgenstein-thread/design.md",
+        ".reffy/reffyspec/changes/add-wittgenstein-thread/specs/front-matter/spec.md",
+        ".reffy/reffyspec/changes/add-wittgenstein-thread/specs/inheritance/spec.md",
+        ".reffy/reffyspec/changes/add-wittgenstein-thread/specs/argument/spec.md",
+        ".reffy/reffyspec/changes/add-wittgenstein-thread/specs/construction/spec.md",
+        ".reffy/reffyspec/changes/add-wittgenstein-thread/specs/horizon/spec.md"
+      ]
     }
   ]
 }

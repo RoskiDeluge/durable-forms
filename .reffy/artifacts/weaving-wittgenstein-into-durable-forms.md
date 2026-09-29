@@ -413,10 +413,14 @@ want the edits tracked as tasks.
   and recurring glosses after it. The alternative is a single *station* in the
   relay, with Chapter 1 only. With a single station, suggestions 3 and 4 lose
   their footing, and 4 is the one that repairs something.
+  <!-- Let's keep it as a thread -->
 - **Does the Preface change?** Suggestion 2 argues yes. It's your preface, and
   its dismissal of the philosophical lineage may be deliberate.
+  <!-- let's change it, no need to be dismisive of the lineage -->
 - **Which translation?** The two PI translations word §202 and §258
   differently, and the drafts above lean on the Anscombe phrasing.
+  <!-- Let's go with Anscombe -->
 - **Does Langer's debt check out?** Suggestion 2 depends on the PNK passages.
   If they're weaker than remembered, soften the claim to "in the tradition of
   the *Tractatus*".
+  <!-- Nope, they check out as I remember them. Let's keep it. -->

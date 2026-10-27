@@ -78,6 +78,10 @@ WebAssembly Community Group. *WebAssembly Core Specification*. W3C Recommendatio
 
 Wilkes, Maurice V., David J. Wheeler, and Stanley Gill. *The Preparation of Programs for an Electronic Digital Computer*. Cambridge, MA: Addison-Wesley, 1951.
 
+Winters, Titus, Tom Manshreck, and Hyrum Wright, eds. *Software Engineering at Google: Lessons Learned from Programming Over Time*. Sebastopol, CA: O’Reilly Media, 2020. Source of Hyrum’s Law in Chapter 5.
+
+Wittgenstein, Ludwig. *On Certainty*. Edited by G. E. M. Anscombe and G. H. von Wright. Translated by Denis Paul and G. E. M. Anscombe. Oxford: Blackwell, 1969.
+
 Wittgenstein, Ludwig. *Philosophical Investigations*. Translated by G. E. M. Anscombe. Oxford: Blackwell, 1953.
 
 Wittgenstein, Ludwig. “Some Remarks on Logical Form.” *Proceedings of the Aristotelian Society*, Supplementary Volume 9 (1929): 162–171.

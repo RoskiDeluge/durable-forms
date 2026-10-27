@@ -1,7 +1,7 @@
 {
   "version": 1,
   "created_at": "2026-09-27T18:59:28.680Z",
-  "updated_at": "2026-09-29T02:45:06.793Z",
+  "updated_at": "2026-10-27T07:10:02.411Z",
   "project_id": "durable-forms",
   "workspace_ids": [
     "lasm-v1"
@@ -29,6 +29,29 @@
         ".reffy/reffyspec/changes/add-wittgenstein-thread/specs/argument/spec.md",
         ".reffy/reffyspec/changes/add-wittgenstein-thread/specs/construction/spec.md",
         ".reffy/reffyspec/changes/add-wittgenstein-thread/specs/horizon/spec.md"
+      ]
+    },
+    {
+      "id": "ca199522-5338-40a7-bbf0-de47ee78d4ae",
+      "name": "lasm conversation transcript",
+      "filename": "lasm-conversation-transcript.md",
+      "kind": "note",
+      "mime_type": "text/markdown",
+      "size_bytes": 40706,
+      "tags": [],
+      "created_at": "2026-10-27T07:05:59.142Z",
+      "updated_at": "2026-10-27T07:10:02.411Z",
+      "related_changes": [
+        "add-reified-frame-thread"
+      ],
+      "derived_outputs": [
+        ".reffy/reffyspec/changes/add-reified-frame-thread/proposal.md",
+        ".reffy/reffyspec/changes/add-reified-frame-thread/tasks.md",
+        ".reffy/reffyspec/changes/add-reified-frame-thread/design.md",
+        ".reffy/reffyspec/changes/add-reified-frame-thread/specs/argument/spec.md",
+        ".reffy/reffyspec/changes/add-reified-frame-thread/specs/construction/spec.md",
+        ".reffy/reffyspec/changes/add-reified-frame-thread/specs/horizon/spec.md",
+        ".reffy/reffyspec/changes/add-reified-frame-thread/specs/front-matter/spec.md"
       ]
     }
   ]

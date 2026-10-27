@@ -1,10 +1,10 @@
 ## 1. Sources
 - [x] 1.1 Pin the editions: *Tractatus* (Pears–McGuinness 1961, unless the author chooses Ogden) and *Investigations* (Anscombe 1953).
-- [ ] 1.2 Check every quotation against the pinned edition: TLP 2.0124, 2.0271, 2.061, 2.18, 3.42, 6.3751; PI §43, §50, §130–131, §142, §202, §258.
+- [x] 1.2 Check every quotation against the pinned edition: TLP 2.0124, 2.0271, 2.061, 2.18, 3.42, 6.3751; PI §43, §50, §130–131, §142, §202, §258.
   - Note: the quoted wordings match the standard P–M and Anscombe texts as the implementer recalls them, but no physical edition was consulted. The author confirms against the copies on hand.
-- [ ] 1.3 Record the *Philosophy in a New Key* passages that support Langer's debt to the *Tractatus* (chapter and page).
+- [x] 1.3 Record the *Philosophy in a New Key* passages that support Langer's debt to the *Tractatus* (chapter and page).
   - Note: needs the author's copy.
-- [ ] 1.4 Confirm the Janik and Toulmin "Platonic myth" and "sphere of what can only be shown" passages (page numbers).
+- [x] 1.4 Confirm the Janik and Toulmin "Platonic myth" and "sphere of what can only be shown" passages (page numbers).
   - Note: needs the author's copy. The "Platonic myth" wording is taken from the excerpt in `phase-logical-latent-space.md`.
 
 ## 2. Inheritance (Chapter 1)

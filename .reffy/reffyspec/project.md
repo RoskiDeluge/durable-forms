@@ -33,7 +33,7 @@ There are no automated tests. To verify a change:
 ### Git Workflow
 - One branch, `main`, pushed to GitHub (`RoskiDeluge/durable-forms`). GitHub Pages deploys from `main:/docs`.
 - Commit subjects are short, imperative, and capitalized (e.g. "Point header GitHub button at the current page's edit URL").
-- Generated and local artifacts are gitignored: `_site/`, `.jekyll-cache/`, `Gemfile.lock`, `.DS_Store` (plus `full-book.md`, left over from the bootstrap import).
+- Generated and local artifacts are gitignored: `_site/`, `.jekyll-cache/`, `Gemfile.lock`, `.DS_Store`.
 
 ## Domain Context
 - This is a philosophical and technical essay, not software. Most changes are to content, structure, or presentation. The book's vocabulary is deliberate, so don't "correct" it: durable form, projection, assembly / LogicalAssembly, load-bearing, gates and swaps, substrates, the "second problem" (semantics deferred by Shannon), "the graveyard".

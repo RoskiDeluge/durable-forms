@@ -1,6 +1,6 @@
 # Durable Forms
 
-*An Essay on Load Bearing Representations* — working manuscript, Draft 0.21 (July 2026).
+*An Essay on Load Bearing Representations* — working manuscript, Draft 0.34 (October 2026).
 
 The book is published as a GitHub Pages site from the [`docs/`](docs/) directory. Each chapter is a standalone markdown file, and these files are the working manuscript.
 

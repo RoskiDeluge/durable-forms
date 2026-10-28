@@ -1,6 +1,6 @@
 # Durable Forms
 
-*An Essay on Load Bearing Representations* — working manuscript, Draft 0.34 (October 2026).
+*An Essay on Load Bearing Representations* — working manuscript, Draft 0.33 (October 2026).
 
 The book is published as a GitHub Pages site from the [`docs/`](docs/) directory. Each chapter is a standalone markdown file, and these files are the working manuscript.
 
@@ -21,3 +21,7 @@ cd docs
 bundle install
 bundle exec jekyll serve   # http://127.0.0.1:4000/
 ```
+
+## Publishing
+
+Push with `scripts/push.sh` instead of `git push`. Each push to `origin` is one draft increment: the script bumps the version by 0.01 (and sets the current month) in `docs/_config.yml`, `docs/index.md`, and this README, commits the bump, and pushes.

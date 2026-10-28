@@ -1,5 +1,5 @@
 title: Durable Forms
-description: An Essay on Load Bearing Representations — working manuscript, draft 0.34
+description: An Essay on Load Bearing Representations — working manuscript, draft 0.33
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
@@ -11,4 +11,4 @@ color_scheme: light
 
 aux_links: {}
 
-footer_content: "Durable Forms — working manuscript, draft 0.34, October 2026."
+footer_content: "Durable Forms — working manuscript, draft 0.33, October 2026."

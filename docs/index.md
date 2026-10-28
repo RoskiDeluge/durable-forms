@@ -9,7 +9,7 @@ permalink: /
 
 *An Essay on Load Bearing Representations*
 
-Working manuscript — Draft 0.33 · October 2026
+Working manuscript — Draft 0.34 · October 2026
 
 ---
 

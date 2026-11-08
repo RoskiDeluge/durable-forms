@@ -1,10 +1,11 @@
 {
   "version": 1,
   "created_at": "2026-09-27T18:59:28.680Z",
-  "updated_at": "2026-10-27T09:34:01.088Z",
+  "updated_at": "2026-11-08T18:30:15.243Z",
   "project_id": "durable-forms",
   "workspace_ids": [
-    "lasm-v1"
+    "lasm-v1",
+    "nuveris-v1"
   ],
   "artifacts": [
     {
@@ -16,7 +17,7 @@
       "size_bytes": 24109,
       "tags": [],
       "created_at": "2026-09-27T19:19:07.246Z",
-      "updated_at": "2026-10-27T09:34:00.989Z",
+      "updated_at": "2026-11-08T18:26:34.202Z",
       "related_changes": [
         "add-wittgenstein-thread"
       ],
@@ -52,6 +53,46 @@
         ".reffy/reffyspec/changes/archive/2026-10-27-add-reified-frame-thread/specs/construction/spec.md",
         ".reffy/reffyspec/changes/archive/2026-10-27-add-reified-frame-thread/specs/horizon/spec.md",
         ".reffy/reffyspec/changes/archive/2026-10-27-add-reified-frame-thread/specs/front-matter/spec.md"
+      ]
+    },
+    {
+      "id": "ee014290-c5f1-48f2-a391-ffdeb1a3ed1b",
+      "name": "logical assembly a new source of light",
+      "filename": "logical-assembly-a-new-source-of-light.md",
+      "kind": "note",
+      "mime_type": "text/markdown",
+      "size_bytes": 5216,
+      "tags": [],
+      "created_at": "2026-11-08T18:28:56.674Z",
+      "updated_at": "2026-11-08T18:30:15.243Z",
+      "related_changes": [
+        "add-mode-thread"
+      ],
+      "derived_outputs": [
+        ".reffy/reffyspec/changes/add-mode-thread/proposal.md",
+        ".reffy/reffyspec/changes/add-mode-thread/tasks.md",
+        ".reffy/reffyspec/changes/add-mode-thread/design.md",
+        ".reffy/reffyspec/changes/add-mode-thread/specs/mode-thread/spec.md"
+      ]
+    },
+    {
+      "id": "766bf018-c023-4b5b-bf12-97c7a98542e6",
+      "name": "logical assembly resolution overlay and mode",
+      "filename": "logical-assembly-resolution-overlay-and-mode.md",
+      "kind": "note",
+      "mime_type": "text/markdown",
+      "size_bytes": 4691,
+      "tags": [],
+      "created_at": "2026-11-08T18:28:56.674Z",
+      "updated_at": "2026-11-08T18:30:15.243Z",
+      "related_changes": [
+        "add-mode-thread"
+      ],
+      "derived_outputs": [
+        ".reffy/reffyspec/changes/add-mode-thread/proposal.md",
+        ".reffy/reffyspec/changes/add-mode-thread/tasks.md",
+        ".reffy/reffyspec/changes/add-mode-thread/design.md",
+        ".reffy/reffyspec/changes/add-mode-thread/specs/mode-thread/spec.md"
       ]
     }
   ]

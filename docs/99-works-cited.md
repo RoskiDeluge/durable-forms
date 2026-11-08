@@ -42,11 +42,15 @@ Hartley, R. V. L. “Transmission of Information.” *Bell System Technical Jour
 
 Janik, Allan, and Stephen Toulmin. *Wittgenstein’s Vienna*. New York: Simon and Schuster, 1973. Source of the “Platonic myth” characterization of the *Tractatus* in Chapter 1.
 
+Kant, Immanuel. *Critique of Pure Reason*. Translated and edited by Paul Guyer and Allen W. Wood. Cambridge: Cambridge University Press, 1998. First published 1781.
+
 Langer, Susanne K. *Philosophy in a New Key: A Study in the Symbolism of Reason, Rite, and Art*. Cambridge, MA: Harvard University Press, 1942.
 
 Lenat, Douglas B., and R. V. Guha. *Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project*. Reading, MA: Addison-Wesley, 1990.
 
 McDermott, John. “R1: A Rule-Based Configurer of Computer Systems.” *Artificial Intelligence* 19, no. 1 (1982): 39–88. R1 was deployed at Digital Equipment Corporation as XCON.
+
+Miller, Chris. *Chip War: The Fight for the World’s Most Critical Technology*. New York: Scribner, 2022. Source of the account of ASML and extreme-ultraviolet lithography in the Preface.
 
 Nyquist, Harry. “Certain Factors Affecting Telegraph Speed.” *Bell System Technical Journal* 3, no. 2 (April 1924): 324–346.
 
@@ -66,11 +70,15 @@ Shannon, Claude E. “The Bandwagon.” *IRE Transactions on Information Theory*
 
 Shannon, Claude E., and Warren Weaver. *The Mathematical Theory of Communication*. Urbana: University of Illinois Press, 1949.
 
+Spinoza, Benedictus de. *Ethics*. In *The Collected Works of Spinoza*, vol. 1, edited and translated by Edwin Curley. Princeton: Princeton University Press, 1985. First published 1677.
+
 Stevens, W. Richard. *Advanced Programming in the UNIX Environment*. Reading, MA: Addison-Wesley, 1992.
 
 Stone, Brad. *The Everything Store: Jeff Bezos and the Age of Amazon*. New York: Little, Brown, 2013. Source of the founding context in Chapter 9: the Cadabra name and the Kaphan hire.
 
 Strathern, Marilyn. “‘Improving Ratings’: Audit in the British University System.” *European Review* 5, no. 3 (1997): 305–321. Source of the common phrasing of Goodhart’s law quoted in Chapter 8.
+
+Tesler, Larry. “A Personal History of Modeless Text Editing and Cut/Copy-Paste.” *interactions* 19, no. 4 (2012): 70–75.
 
 Tribus, Myron, and Edward C. McIrvine. “Energy and Information.” *Scientific American* 225, no. 3 (September 1971): 179–188. Source of the von Neumann–Shannon entropy-naming anecdote.
 

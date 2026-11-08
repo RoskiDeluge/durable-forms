@@ -13,7 +13,7 @@ The six components — concepts, relations, constraints, events, policies, evalu
 
 ## [Chapter 8: Gates and Swaps](08-gates-and-swaps.html)
 
-Evaluations as executable domain theory: permission structures rather than benchmarks, and the full feedback loop — assembly, evals, behavior, outcomes, versioned revision — with every arrow an enforcement edge. The permanent taxes stated honestly: Goodhart pressure on gated evals, adversarial review and rotation, constraints checked in production and not only at the gate. Structural capital operationalized: the model-swap test as the experiment every organization runs involuntarily every six to eighteen months; the “private evals are the new IP” claim supported and qualified — the durable asset is the pair.
+Evaluations as executable domain theory: permission structures rather than benchmarks, and the full feedback loop — assembly, evals, behavior, outcomes, versioned revision — with every arrow an enforcement edge. The mode as the loop's unit — an act and its meaning kept as one record — and, after ASML's lithography, resolution and overlay error as the proposed measures of whether the assembly holds tolerance, with the question lithography never faces: when reading and ruling disagree, which side is wrong. The permanent taxes stated honestly: Goodhart pressure on gated evals, adversarial review and rotation, constraints checked in production and not only at the gate. Structural capital operationalized: the model-swap test as the experiment every organization runs involuntarily every six to eighteen months; the “private evals are the new IP” claim supported and qualified — the durable asset is the pair.
 
 ## [Chapter 9: Projections and Substrates](09-projections-and-substrates.html)
 

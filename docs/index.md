@@ -17,7 +17,7 @@ Working manuscript — Draft 0.34 · October 2026
 
 **[Preface: On the Name](00-preface.html)**
 
-The Wasm homage, and how a naming gesture turned out to contain a thesis.
+The Wasm homage, and how a naming gesture turned out to contain a thesis — and ASML's new source of light as the model for the book's ambition.
 
 ### Part I — Inheritance
 
@@ -27,7 +27,7 @@ Plato's theory of Forms recovered as the first projection architecture — durab
 
 Wittgenstein as the one thinker who ran the relay alone: the Tractatus's fixed logical space rebuilds Plato's physics for logic, and the Investigations takes it apart, locating meaning in use and rules in practice.
 
-Susanne Langer's symbols as vehicles of conception rather than proxies for objects, and Deleuze's assemblages — heterogeneous parts held together by what they do, not what they essentially are — as the anti-essentialist corrective that keeps the book's Platonism honest.
+Susanne Langer's symbols as vehicles of conception rather than proxies for objects, and Deleuze's assemblages — heterogeneous parts held together by what they do, not what they essentially are — as the anti-essentialist corrective that keeps the book's Platonism honest. Behind Deleuze, Spinoza: one thing under two attributes, an event and its meaning held as one — and Kant's wall as the tension the book names and declines to settle.
 
 The scientific line: Shannon's quantification-by-deferral of meaning, then Deutsch and Marletto's counterfactual turn, in which information is constituted by which transformations are possible.
 
@@ -85,7 +85,7 @@ The name as thesis: what WebAssembly is to computation — a compact, portable, 
 
 **[Chapter 8: Gates and Swaps](08-gates-and-swaps.html)**
 
-Evaluations as executable domain theory: permission structures rather than benchmarks, and the full feedback loop — assembly, evals, behavior, outcomes, versioned revision — with every arrow an enforcement edge.
+Evaluations as executable domain theory: permission structures rather than benchmarks, and the full feedback loop — assembly, evals, behavior, outcomes, versioned revision — with every arrow an enforcement edge. The mode as the loop's unit — an act and its meaning kept as one record — and, after ASML's lithography, resolution and overlay error as the proposed measures of whether the assembly holds tolerance, with the question lithography never faces: when reading and ruling disagree, which side is wrong.
 
 The permanent taxes stated honestly: Goodhart pressure on gated evals, adversarial review and rotation, constraints checked in production and not only at the gate.
 
@@ -107,6 +107,6 @@ The formalization boundary: tacit, political, and legitimately ambiguous knowled
 
 Failure stated as carefully as success: the assembly as a commitment that cannot enforce itself, correlated loss — and correlated repair — as the terms of shared meaning, the closed world and the untyped residue its gates must keep, and the falsifiable predictions restated as the book's exposure to being wrong.
 
-The compositional stack, offered as labeled speculation: if the bit was the unit of the transmission era, whether something with the Lasm's properties becomes the unit of the retention era is the question the book declines to answer and hands to the reader.
+The compositional stack, offered as labeled speculation: if the bit was the unit of the transmission era, whether the mode — a distinction enforced and kept with its address — becomes the unit of the retention era is the question the book declines to answer and hands to the reader.
 
 **[Works Cited](99-works-cited.html)**

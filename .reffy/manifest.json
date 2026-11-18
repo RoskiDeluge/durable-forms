@@ -1,7 +1,7 @@
 {
   "version": 1,
   "created_at": "2026-09-27T18:59:28.680Z",
-  "updated_at": "2026-11-08T19:06:50.308Z",
+  "updated_at": "2026-11-18T02:30:49.095Z",
   "project_id": "durable-forms",
   "workspace_ids": [
     "lasm-v1",
@@ -17,7 +17,7 @@
       "size_bytes": 24109,
       "tags": [],
       "created_at": "2026-09-27T19:19:07.246Z",
-      "updated_at": "2026-11-08T18:26:34.202Z",
+      "updated_at": "2026-11-18T01:06:55.840Z",
       "related_changes": [
         "add-wittgenstein-thread"
       ],
@@ -41,7 +41,7 @@
       "size_bytes": 40706,
       "tags": [],
       "created_at": "2026-10-27T07:05:59.142Z",
-      "updated_at": "2026-10-27T09:34:01.088Z",
+      "updated_at": "2026-11-18T01:06:55.840Z",
       "related_changes": [
         "add-reified-frame-thread"
       ],
@@ -64,7 +64,7 @@
       "size_bytes": 5216,
       "tags": [],
       "created_at": "2026-11-08T18:28:56.674Z",
-      "updated_at": "2026-11-08T19:06:50.307Z",
+      "updated_at": "2026-11-18T01:06:55.840Z",
       "related_changes": [
         "add-mode-thread"
       ],
@@ -83,7 +83,7 @@
       "size_bytes": 4691,
       "tags": [],
       "created_at": "2026-11-08T18:28:56.674Z",
-      "updated_at": "2026-11-08T19:06:50.308Z",
+      "updated_at": "2026-11-18T01:06:55.840Z",
       "related_changes": [
         "add-mode-thread"
       ],
@@ -92,6 +92,17 @@
         ".reffy/reffyspec/changes/archive/2026-11-08-add-mode-thread/tasks.md",
         ".reffy/reffyspec/changes/archive/2026-11-08-add-mode-thread/design.md"
       ]
+    },
+    {
+      "id": "97bc989d-26e6-4054-8b5c-6bad17c105c5",
+      "name": "suggestion monads and three altitudes",
+      "filename": "suggestion-monads-and-three-altitudes.md",
+      "kind": "note",
+      "mime_type": "text/markdown",
+      "size_bytes": 7791,
+      "tags": [],
+      "created_at": "2026-11-18T02:30:49.095Z",
+      "updated_at": "2026-11-18T02:30:49.095Z"
     }
   ]
 }

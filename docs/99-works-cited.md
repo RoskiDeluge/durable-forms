@@ -42,9 +42,13 @@ Hartley, R. V. L. “Transmission of Information.” *Bell System Technical Jour
 
 Janik, Allan, and Stephen Toulmin. *Wittgenstein’s Vienna*. New York: Simon and Schuster, 1973. Source of the “Platonic myth” characterization of the *Tractatus* in Chapter 1.
 
+Kant, Immanuel. *Critique of Judgment*. Translated by Werner S. Pluhar. Indianapolis: Hackett, 1987. First published 1790.
+
 Kant, Immanuel. *Critique of Pure Reason*. Translated and edited by Paul Guyer and Allen W. Wood. Cambridge: Cambridge University Press, 1998. First published 1781.
 
 Langer, Susanne K. *Philosophy in a New Key: A Study in the Symbolism of Reason, Rite, and Art*. Cambridge, MA: Harvard University Press, 1942.
+
+Leibniz, G. W. *Monadology*. In *Philosophical Essays*, edited and translated by Roger Ariew and Daniel Garber. Indianapolis: Hackett, 1989. Written 1714.
 
 Lenat, Douglas B., and R. V. Guha. *Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project*. Reading, MA: Addison-Wesley, 1990.
 

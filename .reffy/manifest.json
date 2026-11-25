@@ -1,7 +1,7 @@
 {
   "version": 1,
   "created_at": "2026-09-27T18:59:28.680Z",
-  "updated_at": "2026-11-25T08:07:47.685Z",
+  "updated_at": "2026-11-25T08:15:16.744Z",
   "project_id": "durable-forms",
   "workspace_ids": [
     "lasm-v1",
@@ -133,6 +133,17 @@
       "tags": [],
       "created_at": "2026-11-24T20:54:00.893Z",
       "updated_at": "2026-11-25T07:34:31.446Z"
+    },
+    {
+      "id": "a9e12449-7c93-4b73-8b76-e129d2131482",
+      "name": "reffy feedback prune guard blocks archive cleanup",
+      "filename": "reffy-feedback-prune-guard-blocks-archive-cleanup.md",
+      "kind": "note",
+      "mime_type": "text/markdown",
+      "size_bytes": 4505,
+      "tags": [],
+      "created_at": "2026-11-25T08:15:16.744Z",
+      "updated_at": "2026-11-25T08:15:16.744Z"
     }
   ]
 }
